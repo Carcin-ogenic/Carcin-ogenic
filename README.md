@@ -1,5 +1,6 @@
 ## Hi, I'm Rohit Arora! 🚀
-Welcome to my GitHub profile! I'm a passionate Full Stack Developer with expertise in React.js, Next.js, TailwindCSS, MongoDB, and more. I specialize in building scalable and visually appealing web applications and have experience in competitive programming and DSA mentorship.
+**Welcome to my GitHub profile! I'm a passionate Full Stack Developer with expertise in React.js, Next.js, TailwindCSS, MongoDB, and more. I specialize in building scalable and visually appealing web applications and have experience in competitive programming and DSA mentorship.**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rohitarora01-blue?logo=linkedin)](https://www.linkedin.com/in/rohitarora01/)
 [![GitHub](https://img.shields.io/badge/GitHub-Carcin--ogenic-black?logo=github)](https://github.com/Carcin-ogenic/)
 

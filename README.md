@@ -27,7 +27,7 @@ Next.js, React.js, Node.js, Express.js, TailwindCSS, MongoDB, Git/GitHub, BitBuc
 ## 📫 Connect With Me
 
 📩 **Email:** rohitarora8370@gmail.com  
-💼 **LinkedIn:** [rohitarora01](https://www.linkedin.com/in/rohitarora01/)  
+💼 **LinkedIn:** [Rohit Arora](https://www.linkedin.com/in/rohitarora01/)  
 🔗 **GitHub:** [Carcin-ogenic](https://github.com/Carcin-ogenic/)  
 
 ### 🚀 Let's build something amazing together!  

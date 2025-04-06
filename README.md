@@ -12,9 +12,8 @@
 🏆 **Dept. Rank 1 (CGPA 9.44) | Competitive Programmer** 
 
 ## 🛠️ Tech Stack
-
-**Languages:**  
-C/C++, Java, Python, SQL, JavaScript, HTML/CSS  
+ 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Carcin-ogenic&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 **Frameworks & Tools:**  
 Next.js, React.js, Node.js, Express.js, TailwindCSS, MongoDB, Git/GitHub, BitBucket  
